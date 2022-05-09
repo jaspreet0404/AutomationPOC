@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Test Suite" parallel="tests" thread-count="1">
+
+	<parameter name="OS" value="Windows" />
+	<parameter name="browser" value="Chrome" />
+	<test name="LLP_TEST">
+		<classes>
+		<class name="com.automation.framework.webTests.SanityTests">
+				<methods>
+					<include name="dsvSearchShipment" />
+					<include name="createShipment" />
+					<include name="createShipmentFromTemplate" />
+					<include name="invoiceSearch" />
+					<include name="invoiceSearchNew" />
+				</methods>
+			</class>
+			<!-- <class name="com.automation.framework.webTests.LoadConfirmation">
+				<methods>
+					<include name="loadConfirmationUpdate" />
+				</methods>
+			</class>
+			<class name="com.automation.framework.webTests.BatchManagement">
+				<methods>
+					<include name="validateTriggerCashExtractBatches" />
+				</methods>
+			</class> -->
+
+		</classes>
+	</test>
+</suite>

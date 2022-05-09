@@ -1,0 +1,664 @@
+2019-03-02 18:23:13 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-02 18:23:15 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 18:23:15 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 18:23:16 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1748 ms
+2019-03-02 18:24:16 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-02 18:24:18 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 18:24:18 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 18:24:18 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1648 ms
+2019-03-02 18:24:21 [main] INFO  HelloWorld:31 - Launch URL https://www.gmail.com
+2019-03-02 18:24:22 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 18:24:22 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 18:24:22 [main] INFO  HelloWorld:258 - Page load time for url https://www.gmail.com is 1102 ms
+2019-03-02 18:35:13 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-02 18:35:15 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 18:35:15 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 18:35:16 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1838 ms
+2019-03-02 18:35:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-02 18:35:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-02 18:35:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: login
+2019-03-02 18:35:16 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-02 18:38:11 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-02 18:38:13 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 18:38:13 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 18:38:13 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1740 ms
+2019-03-02 18:38:13 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-02 18:38:13 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-02 18:38:14 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-02 19:01:56 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-02 19:01:59 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-02 19:01:59 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-02 19:01:59 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1851 ms
+2019-03-02 19:01:59 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-02 19:01:59 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-02 19:01:59 [main] INFO  HelloWorld:89 - Find element for by object By.id: login
+2019-03-02 19:01:59 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-03 19:08:23 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-03 19:08:25 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-03 19:08:26 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-03 19:08:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 2143 ms
+2019-03-03 19:08:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-03 19:08:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-03 19:08:27 [main] INFO  HelloWorld:89 - Find element for by object By.id: login
+2019-03-03 19:08:27 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-03 19:12:26 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-03 19:12:27 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-03 19:12:28 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-03 19:12:28 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1645 ms
+2019-03-03 19:12:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-03 19:12:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-03 19:12:29 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-03 19:12:36 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:15:20 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:15:23 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:15:25 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:15:26 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:15:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1826 ms
+2019-03-04 15:15:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:15:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:15:26 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:15:34 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:19:16 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:19:19 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:19:21 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:19:22 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:19:22 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1677 ms
+2019-03-04 15:19:22 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:19:22 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:19:22 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:19:29 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:27:40 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:27:41 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:27:42 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:27:42 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1746 ms
+2019-03-04 15:27:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:27:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:27:43 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:27:49 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:27:49 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:28:11 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:28:14 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:28:15 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:28:15 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 3857 ms
+2019-03-04 15:28:15 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:28:15 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:28:16 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:28:35 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:28:54 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:29:04 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:29:06 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:29:07 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:29:07 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1963 ms
+2019-03-04 15:29:07 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:29:07 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:29:08 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:29:14 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:29:14 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:31:48 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:31:51 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:31:52 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:31:52 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 3267 ms
+2019-03-04 15:31:52 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:31:52 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:31:52 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:32:00 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:32:00 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:33:08 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:33:10 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:33:10 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:33:10 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1710 ms
+2019-03-04 15:33:10 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:33:11 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:33:11 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:33:18 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:33:18 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:35:38 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:35:40 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:35:40 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:35:40 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1755 ms
+2019-03-04 15:35:40 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:35:41 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:35:41 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:35:48 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:35:48 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:37:38 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:37:40 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:37:41 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:37:41 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1869 ms
+2019-03-04 15:37:41 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:37:41 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:37:42 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:37:49 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:37:49 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:40:40 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:40:41 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:40:42 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:40:42 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1622 ms
+2019-03-04 15:40:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:40:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:40:43 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:40:50 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:41:14 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:41:16 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:41:16 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:41:16 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1615 ms
+2019-03-04 15:41:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:41:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:41:17 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:41:28 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:46:25 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:46:27 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:46:28 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:46:28 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1628 ms
+2019-03-04 15:46:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:46:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:46:28 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:48:26 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:48:28 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:48:28 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:48:28 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1716 ms
+2019-03-04 15:48:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:48:29 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:48:29 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:48:36 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:48:36 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:49:06 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:49:08 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:49:09 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:49:09 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1821 ms
+2019-03-04 15:49:09 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:49:09 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:49:10 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:49:16 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:49:16 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:49:54 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:49:56 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:49:57 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:49:57 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1852 ms
+2019-03-04 15:49:57 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:49:57 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:49:57 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:50:03 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:50:03 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:53:02 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:53:04 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:53:05 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:53:05 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1706 ms
+2019-03-04 15:53:05 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:53:05 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:53:05 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:53:13 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:53:13 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:54:00 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:54:02 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:54:03 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:54:03 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1829 ms
+2019-03-04 15:54:03 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:54:03 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:54:03 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:54:57 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:54:59 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:55:00 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:55:00 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1707 ms
+2019-03-04 15:55:00 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:55:00 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:55:00 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:55:05 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:55:06 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:55:41 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:55:43 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:55:44 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:55:44 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1837 ms
+2019-03-04 15:55:44 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:55:44 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:55:44 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:55:50 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:55:50 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:56:03 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:56:06 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:56:06 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:56:06 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1655 ms
+2019-03-04 15:56:06 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:56:06 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:56:06 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:56:11 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:56:45 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:56:46 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:56:47 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:56:47 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1635 ms
+2019-03-04 15:56:47 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:56:47 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:56:47 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:57:35 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:57:37 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:57:37 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:57:37 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1627 ms
+2019-03-04 15:57:37 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:57:38 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:57:38 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:57:44 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:57:45 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 15:58:02 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 15:58:04 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 15:58:05 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 15:58:05 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1630 ms
+2019-03-04 15:58:05 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 15:58:05 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 15:58:05 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 15:58:11 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 15:58:11 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 16:02:23 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 16:02:25 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 16:02:26 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 16:02:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1792 ms
+2019-03-04 16:02:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 16:02:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 16:02:26 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 16:04:14 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 16:05:14 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 16:05:16 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 16:05:16 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 16:05:16 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1621 ms
+2019-03-04 16:05:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 16:05:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 16:05:17 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 16:08:12 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 16:08:24 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 16:08:27 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 16:08:27 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 16:08:27 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 2774 ms
+2019-03-04 16:09:28 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 16:09:47 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 16:09:49 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 16:09:50 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 16:09:50 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1759 ms
+2019-03-04 16:10:12 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 16:10:12 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 16:10:12 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 16:10:21 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 16:10:22 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:17:17 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:17:19 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:17:20 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:17:20 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1837 ms
+2019-03-04 19:17:20 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:17:20 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:17:20 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:17:26 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:17:27 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:17:47 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:17:49 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:17:49 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:17:49 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1678 ms
+2019-03-04 19:17:49 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:17:49 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:17:50 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:17:57 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:17:57 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:18:43 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:18:44 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:18:45 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:18:45 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1625 ms
+2019-03-04 19:18:45 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:18:45 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:18:46 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:19:10 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:19:20 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:20:08 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:20:10 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:20:11 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:20:11 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1931 ms
+2019-03-04 19:20:11 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:20:11 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:20:12 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:20:18 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6535 ms
+2019-03-04 19:20:18 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:20:18 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:20:19 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:20:19 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:21:00 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:21:03 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:21:03 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:21:03 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1712 ms
+2019-03-04 19:21:03 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:21:03 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:21:03 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:21:10 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6506 ms
+2019-03-04 19:21:10 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:21:10 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:21:11 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:21:11 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:26:13 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:26:15 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:26:16 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:26:16 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1772 ms
+2019-03-04 19:26:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:26:16 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:26:16 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:26:24 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 7330 ms
+2019-03-04 19:26:24 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:26:24 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:26:24 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:26:24 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:26:57 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:27:00 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:27:01 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:27:01 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 2454 ms
+2019-03-04 19:27:01 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:27:01 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:27:01 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:27:08 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6119 ms
+2019-03-04 19:27:08 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:27:08 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:27:08 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:27:08 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5'
+2019-03-04 19:27:08 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:27:44 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:27:46 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:27:46 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:27:46 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1704 ms
+2019-03-04 19:27:46 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:27:46 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:27:47 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:27:55 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 7970 ms
+2019-03-04 19:27:55 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:27:55 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:27:55 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:27:56 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 19:27:56 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 19:27:56 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 19:27:57 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 19:27:57 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:29:58 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:29:59 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:30:00 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:30:00 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1708 ms
+2019-03-04 19:30:00 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:30:00 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:30:00 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:30:07 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 5918 ms
+2019-03-04 19:30:07 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:30:07 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:30:07 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:30:07 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 19:30:08 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 19:30:10 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 19:30:20 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 19:30:28 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:33:05 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:33:07 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:33:07 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:33:07 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1807 ms
+2019-03-04 19:33:07 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:33:08 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:33:08 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:33:15 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6118 ms
+2019-03-04 19:33:15 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:33:15 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:33:15 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:33:15 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:34:31 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:34:33 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:34:33 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:34:33 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1739 ms
+2019-03-04 19:34:33 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:34:34 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:34:34 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:34:40 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6052 ms
+2019-03-04 19:34:40 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:34:41 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:34:41 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:34:42 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 19:34:42 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 19:34:43 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 19:34:43 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 19:34:45 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:35:23 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:35:25 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:35:25 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:35:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1900 ms
+2019-03-04 19:35:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:35:26 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:35:26 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:35:33 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 5923 ms
+2019-03-04 19:35:33 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:35:33 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:35:33 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:35:33 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 19:35:33 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 19:35:35 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 19:35:36 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 19:35:38 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 19:36:50 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 19:36:52 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 19:36:52 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:36:52 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1702 ms
+2019-03-04 19:36:52 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 19:36:53 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 19:36:53 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 19:36:59 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 5683 ms
+2019-03-04 19:36:59 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 19:36:59 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 19:36:59 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 19:37:00 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 19:37:00 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 19:37:01 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Create
+2019-03-04 19:37:01 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 19:37:02 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 19:37:04 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 21:01:31 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:02:04 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:02:06 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 21:02:06 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:02:06 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1704 ms
+2019-03-04 21:02:06 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 21:02:07 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 21:02:07 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 21:02:52 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:02:54 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 21:02:54 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:02:54 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1860 ms
+2019-03-04 21:02:54 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 21:02:55 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 21:02:55 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 21:03:02 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6979 ms
+2019-03-04 21:03:02 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:03:02 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 21:03:02 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 21:03:03 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 21:03:04 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 21:03:05 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Create
+2019-03-04 21:03:06 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 21:03:06 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 21:03:09 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 21:03:12 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:03:14 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 21:03:14 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:03:14 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1657 ms
+2019-03-04 21:03:14 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 21:03:14 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 21:03:15 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 21:03:22 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 6645 ms
+2019-03-04 21:03:22 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:03:22 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 21:03:22 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 21:03:23 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[@class='_1vp5']
+2019-03-04 21:03:24 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Home
+2019-03-04 21:03:25 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Create
+2019-03-04 21:03:26 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Account Settings
+2019-03-04 21:03:27 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //span[.='Log Out' and @class ]
+2019-03-04 21:03:29 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 21:12:22 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:12:24 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 21:12:24 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:12:24 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1774 ms
+2019-03-04 21:12:24 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 21:12:24 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 21:12:25 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 21:12:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1648 ms
+2019-03-04 21:12:26 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:12:27 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 21:12:27 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 21:12:37 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-04 21:12:40 [main] INFO  HelloWorld:31 - Launch URL https://www.facebook.com
+2019-03-04 21:12:41 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-04 21:12:42 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:12:42 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 1654 ms
+2019-03-04 21:12:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: email
+2019-03-04 21:12:42 [main] INFO  HelloWorld:89 - Find element for by object By.id: pass
+2019-03-04 21:12:42 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@value='Log In']
+2019-03-04 21:12:45 [main] INFO  HelloWorld:258 - Page load time for url https://www.facebook.com is 2316 ms
+2019-03-04 21:12:45 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-04 21:12:45 [main] INFO  HelloWorld:231 -  Wait for jquery for timeout 10 seconds
+2019-03-04 21:12:45 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@class='_1frb']
+2019-03-04 21:12:55 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-05 18:46:00 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-05 18:46:01 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-05 18:46:01 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-05 18:46:01 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1210 ms
+2019-03-05 18:46:01 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-05 18:46:02 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-05 18:46:03 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-05 18:46:04 [main] INFO  HelloWorld:89 - Find element for by object By.id: ac-gn-link-search-small
+2019-03-05 18:46:14 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 13:32:19 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 13:32:21 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 13:32:21 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 13:32:21 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1206 ms
+2019-03-06 13:32:21 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 13:32:21 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 13:32:22 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 13:32:23 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //a[@href='/us/search' and @id='ac-gn-link-search-small']
+2019-03-06 13:32:33 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 13:33:28 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 13:33:30 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 13:33:30 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 13:33:30 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1070 ms
+2019-03-06 13:33:30 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 13:33:30 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 13:33:31 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 13:35:12 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //a[@href='/us/search' and @id='ac-gn-link-search-small']
+2019-03-06 13:35:25 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 13:35:26 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 13:35:26 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 13:35:26 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1115 ms
+2019-03-06 13:35:26 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 13:35:27 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 13:35:27 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 13:35:28 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 13:35:28 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:24:53 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:24:54 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:24:54 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:24:54 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1193 ms
+2019-03-06 14:24:54 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 14:24:55 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 14:24:56 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 14:24:56 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 14:24:57 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:25:14 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:25:15 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:25:15 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:25:15 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1075 ms
+2019-03-06 14:25:15 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 14:25:16 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 14:25:17 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 14:25:17 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 14:25:17 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:29:57 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:29:58 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:29:58 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:29:58 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1114 ms
+2019-03-06 14:29:58 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 14:29:58 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Mac
+2019-03-06 14:29:59 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: iPad
+2019-03-06 14:30:00 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 14:30:00 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 14:30:01 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:47:45 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:47:47 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:47:47 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:47:47 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1057 ms
+2019-03-06 14:47:47 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 14:47:57 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:49:00 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:49:01 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:49:01 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:49:01 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1089 ms
+2019-03-06 14:49:01 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 14:49:01 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 14:49:02 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 14:49:03 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 14:49:03 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 14:49:03 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 14:49:56 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 14:49:57 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 14:49:57 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 14:49:57 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1164 ms
+2019-03-06 14:49:57 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 14:49:58 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 14:49:59 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 14:49:59 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 14:49:59 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 14:49:59 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Apple
+2019-03-06 14:49:59 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 15:16:01 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 15:16:02 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 15:16:02 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 15:16:02 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1242 ms
+2019-03-06 15:16:02 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 15:16:03 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 15:16:04 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 15:16:04 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 15:16:04 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 15:16:04 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 15:16:07 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 15:16:08 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 15:16:09 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 15:16:09 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1028 ms
+2019-03-06 15:16:09 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 15:16:09 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 15:16:10 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 15:16:10 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 15:16:10 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 15:16:10 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 15:16:13 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 15:16:14 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 15:16:14 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 15:16:14 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1054 ms
+2019-03-06 15:16:14 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 15:16:14 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 15:16:15 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 15:16:16 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 15:16:16 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 15:16:16 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 15:16:19 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 15:16:20 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 15:16:20 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 15:16:20 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1190 ms
+2019-03-06 15:16:20 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 15:16:20 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 15:16:22 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 15:16:22 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 15:16:22 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 15:16:22 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-03-06 15:16:25 [main] INFO  HelloWorld:31 - Launch URL https://www.apple.com
+2019-03-06 15:16:27 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-03-06 15:16:27 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-03-06 15:16:27 [main] INFO  HelloWorld:258 - Page load time for url https://www.apple.com is 1210 ms
+2019-03-06 15:16:27 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Shopping Bag
+2019-03-06 15:16:27 [main] INFO  HelloWorld:89 - Find element for by object By.linkText: Sign in
+2019-03-06 15:16:28 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='email']
+2019-03-06 15:16:28 [main] INFO  HelloWorld:89 - Find element for by object By.xpath: //input[@type='password']
+2019-03-06 15:16:28 [main] INFO  HelloWorld:89 - Find element for by object By.className: as-signin-button
+2019-03-06 15:16:29 [main] INFO  HelloWorld:132 - Quit webdriver instance
+2019-04-01 18:17:02 [main] INFO  WebApTool:31 - Launch URL https://www.apple.com
+2019-04-01 18:17:03 [main] INFO  WebApTool:177 -  Wait for page load timeout 10 seconds
+2019-04-01 18:17:03 [main] INFO  WebApTool:197 -  Wait for javascript for timeout 10 seconds
+2019-04-01 18:17:03 [main] INFO  WebApTool:257 - Page load time for url https://www.apple.com is 1464 ms
+2019-04-01 18:17:03 [main] INFO  WebApTool:89 - Find element for by object By.linkText: Apple
+2019-04-01 18:17:04 [main] INFO  WebApTool:89 - Find element for by object By.linkText: Mac
+2019-04-01 18:17:05 [main] INFO  WebApTool:89 - Find element for by object By.linkText: iPad
+2019-04-01 18:17:06 [main] INFO  WebApTool:89 - Find element for by object By.linkText: Shopping Bag
+2019-04-01 18:17:06 [main] INFO  WebApTool:89 - Find element for by object By.linkText: Sign in
+2019-04-01 18:17:08 [main] INFO  WebApTool:132 - Quit webdriver instance

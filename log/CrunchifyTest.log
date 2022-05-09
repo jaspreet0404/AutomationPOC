@@ -1,0 +1,4 @@
+2019-02-21 18:54:30 [main] INFO  HelloWorld:31 - Launch URL https://www.google.com
+2019-02-21 18:54:31 [main] INFO  HelloWorld:177 -  Wait for page load timeout 10 seconds
+2019-02-21 18:54:31 [main] INFO  HelloWorld:197 -  Wait for javascript for timeout 10 seconds
+2019-02-21 18:54:31 [main] INFO  HelloWorld:258 - Page load time for url https://www.google.com is 1005 ms

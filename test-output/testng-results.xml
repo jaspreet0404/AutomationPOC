@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-09T17:20:16Z" name="Default suite" finished-at="2022-05-09T17:20:44Z" duration-ms="28352">
+    <groups>
+    </groups>
+    <test started-at="2022-05-09T17:20:16Z" name="Default test" finished-at="2022-05-09T17:20:44Z" duration-ms="28352">
+      <class name="com.automation.framework.webTests.SanityTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0]" started-at="2022-05-09T17:20:15Z" name="beforeSuite" finished-at="2022-05-09T17:20:16Z" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0]" started-at="2022-05-09T17:20:16Z" name="beforeMethod" finished-at="2022-05-09T17:20:21Z" duration-ms="5096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProduct status=SUCCESS method=SanityTests.addProduct()[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addProduct()[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0]" started-at="2022-05-09T17:20:21Z" name="addProduct" finished-at="2022-05-09T17:20:43Z" duration-ms="22092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0]" started-at="2022-05-09T17:20:43Z" name="afterMethod" finished-at="2022-05-09T17:20:44Z" duration-ms="713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProduct status=SUCCESS method=SanityTests.addProduct()[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framework.webTests.SanityTests@4f8969b0]" started-at="2022-05-09T17:20:44Z" name="tearDown" finished-at="2022-05-09T17:20:44Z" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.framework.webTests.SanityTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

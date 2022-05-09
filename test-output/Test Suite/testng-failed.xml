@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [ Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="OS" value="Windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <test thread-count="1" parallel="tests" name="LoginTest(failed)">
+    <classes>
+      <class name="com.automation.framework.webapTestTools.reporting.com.automation.framework.test.LoginTests">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="invoiceSearch"/>
+        </methods>
+      </class> <!-- com.automation.framework.webapTestTools.reporting.com.automation.framework.test.LoginTests -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [ Test Suite] -->
