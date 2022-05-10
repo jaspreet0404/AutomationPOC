@@ -323,8 +323,8 @@ public class WebApTool extends RemoteWebDriver {
     
     public void hightLight(WebElement ele)
     {
-    	//JavascriptExecutor js = (JavascriptExecutor) driver;
-    	//js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", ele);
+    	JavascriptExecutor js = (JavascriptExecutor) driver;
+    	js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", ele);
     }
     
     public void scrollElementToView(WebElement element)

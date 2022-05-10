@@ -25,13 +25,13 @@ public class HomePage extends BasePage {
 	String product = null;
 
 	public String searchProduct(String productName) {
-		Reporting.getLogger().log(Status.INFO, "Search product as " + productName);
+		Reporting.getLogger().log(Status.INFO, "Search product : " + productName);
 
 		webApTool.findElement(txt_SearchBox).sendKeys(productName);
 		webApTool.findElement(txt_SearchBox).sendKeys(Keys.ENTER);
 		txt_ProductName = By.xpath("(//span[contains(text(),'" + productName + "')])[2]");
 		product = webApTool.findElement(txt_ProductName).getText();
-		Reporting.getLogger().log(Status.INFO, "Search result product title " + product);
+		Reporting.getLogger().log(Status.INFO, "Search result product title : " + product);
 
 		return product;
 	}
