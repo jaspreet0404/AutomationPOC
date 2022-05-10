@@ -125,7 +125,7 @@
                     </systemPropertyVariables>
 
                     <suiteXmlFiles>
-                        <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                        <suiteXmlFile>testNG.xml</suiteXmlFile>
                     </suiteXmlFiles>
 
                 </configuration>
